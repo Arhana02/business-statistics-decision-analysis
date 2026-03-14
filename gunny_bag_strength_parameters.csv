@@ -1,0 +1,4 @@
+﻿Parameter,Value,Unit
+mean,5,kg/cm²
+standard_deviation,1.5,kg/cm²
+distribution,normal,
