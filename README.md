@@ -101,5 +101,7 @@ Through this project I learned how to:
 ## 👩‍💻 Author
 
 Arhana Sen Chowdhury
+
 Aspiring Data Analyst
+
 This project is part of my data analytics portfolio demonstrating how statistical methods can support practical decision-making.
